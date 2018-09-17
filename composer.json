@@ -1,0 +1,17 @@
+{
+    "name": "justphp/framework",
+    "description": "This is JustPHP framework!",
+    "type": "library",
+    "authors": [
+        {
+            "name": "jammyjian",
+            "email": "jammyjian@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Just\\": "src/"
+        }
+    },
+    "require": {}
+}
