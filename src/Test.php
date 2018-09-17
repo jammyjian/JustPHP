@@ -12,6 +12,6 @@ class Test
      */
     public function hello()
     {
-        exit('This is test...');
+        exit('I am OK...');
     }
 }
