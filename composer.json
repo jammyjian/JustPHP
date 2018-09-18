@@ -1,7 +1,13 @@
 {
     "name": "justphp/framework",
-    "description": "This is JustPHP framework!",
+    "description": "This is JustPHP Framework!",
+    "keywords": ["JustPHP","framework"],
     "type": "library",
+    "homepage": "https://www.justphp.top",
+    "support": {
+        "issues": "https://github.com/jammyjian/JustPHP/issues",
+        "source": "https://github.com/jammyjian/JustPHP"
+    },
     "authors": [
         {
             "name": "jammyjian",
@@ -9,9 +15,11 @@
         }
     ],
     "autoload": {
+        "files": [],
         "psr-4": {
             "Just\\": "src/"
         }
     },
-    "require": {}
+    "require": {},
+    "require-dev": {}
 }
