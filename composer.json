@@ -1,7 +1,7 @@
 {
     "name": "justphp/framework",
     "description": "This is JustPHP Framework!",
-    "keywords": ["JustPHP","framework","PHP"],
+    "keywords": ["JustPHP","framework","PHP","Just"],
     "type": "library",
     "homepage": "https://www.justphp.top",
     "support": {
